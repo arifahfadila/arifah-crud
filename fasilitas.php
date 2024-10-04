@@ -104,7 +104,7 @@
                             <a class="nav-link" href="fasilitas.php">Fasilitas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="mapel.php">Mata Pelajaran</a>
+                            <a class="nav-link" href="ekstra.php">Ekstrakurikuler</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="kontak.php">Kontak</a>
@@ -124,11 +124,11 @@
 
     <!-- Informasi Fasilitas -->
     <div class="container facilities-section mt-5">
-        <h2 class="text-center mb-4">Fasilitas di SMK N 3 Yogyakarta</h2>
+        <h2 class="text-center mb-5">Fasilitas di SMK N 3 Yogyakarta</h2>
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/lab_komputer.jpg" class="card-img-top" alt="Laboratorium Komputer">
+                   
                     <div class="card-body">
                         <h5 class="card-title">Laboratorium Komputer</h5>
                         <p class="card-text">Laboratorium komputer yang dilengkapi perangkat keras dan perangkat lunak terkini untuk pembelajaran teknik komputer dan jaringan.</p>
@@ -137,7 +137,6 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/studio_multimedia.jpg" class="card-img-top" alt="Studio Multimedia">
                     <div class="card-body">
                         <h5 class="card-title">Studio Multimedia</h5>
                         <p class="card-text">Studio dengan peralatan multimedia modern untuk kegiatan pembuatan video, desain grafis, dan animasi.</p>
@@ -146,7 +145,6 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/bengkel_elektronika.jpg" class="card-img-top" alt="Bengkel Elektronika">
                     <div class="card-body">
                         <h5 class="card-title">Bengkel Elektronika</h5>
                         <p class="card-text">Bengkel untuk praktik instalasi listrik dan perawatan alat elektronik.</p>
@@ -157,7 +155,6 @@
             <!-- Fasilitas Baru -->
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/bengkel_mesin.jpg" class="card-img-top" alt="Bengkel Mesin">
                     <div class="card-body">
                         <h5 class="card-title">Bengkel Mesin</h5>
                         <p class="card-text">Bengkel yang mendukung pembelajaran teknik mesin dengan peralatan modern.</p>
@@ -166,8 +163,7 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/bengkel_bangunan.jpg" class="card-img-top" alt="Bengkel Bangunan">
-                    <div class="card-body">
+                   <div class="card-body">
                         <h5 class="card-title">Bengkel Bangunan</h5>
                         <p class="card-text">Bengkel untuk praktik konstruksi bangunan, termasuk teknik sipil dan arsitektur.</p>
                     </div>
@@ -175,7 +171,6 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/bengkel_otomotif.jpg" class="card-img-top" alt="Bengkel Otomotif">
                     <div class="card-body">
                         <h5 class="card-title">Bengkel Otomotif</h5>
                         <p class="card-text">Fasilitas untuk belajar tentang teknik otomotif dan perawatan kendaraan bermotor.</p>
@@ -184,7 +179,6 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/aula_bima.jpg" class="card-img-top" alt="Aula Bima">
                     <div class="card-body">
                         <h5 class="card-title">Aula Bima</h5>
                         <p class="card-text">Aula besar untuk acara-acara sekolah, seminar, dan kegiatan indoor lainnya.</p>
@@ -193,7 +187,6 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/lapangan_voli.jpg" class="card-img-top" alt="Lapangan Voli">
                     <div class="card-body">
                         <h5 class="card-title">Lapangan Voli</h5>
                         <p class="card-text">Lapangan voli yang digunakan untuk kegiatan olahraga siswa dan kompetisi antar kelas.</p>
@@ -202,7 +195,6 @@
             </div>
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="https://example.com/masjid.jpg" class="card-img-top" alt="Masjid Cito Jati">
                     <div class="card-body">
                         <h5 class="card-title">Masjid Cito Jati</h5>
                         <p class="card-text">Masjid sekolah untuk kegiatan ibadah dan kajian keagamaan bagi siswa dan guru.</p>

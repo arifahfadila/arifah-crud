@@ -101,7 +101,7 @@
                             <a class="nav-link" href="fasilitas.php">Fasilitas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="mapel.php">Mata Pelajaran</a>
+                            <a class="nav-link" href="ekstra.php">Ekstrakurikuler</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="kontak.php">Kontak</a>
